@@ -1,3 +1,7 @@
+body {
+  background: white;
+}
+
 h1 {
   color: red;
 }
@@ -5,7 +9,8 @@ h1 {
 .main {
   margin: auto;
   width: 50%;
-  border: 3px solid green;
+  /* border: 2px solid black; */
   padding: 10px;
   text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
